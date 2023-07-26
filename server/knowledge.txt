@@ -1,0 +1,5 @@
+npm init -y :- initializes an empty package.json file means we dont have any dependencies here(jab server folder banaya fir terminal khola cd server kiya aur phir ye npm init -y run kiya jiise package.json file bana)
+
+npm install cloudinary cors dotenv express mongo noose nodemon openai 
+
+cloudinary :- which we are going to use to store the images
